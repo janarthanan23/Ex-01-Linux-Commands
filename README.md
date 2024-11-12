@@ -222,26 +222,6 @@ The find command is used to find a particular file within a directory.
 
 Syntax: find.-name”*.pdf”
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Result:
 
 Thus, the execution of various Linux commands is executed successfully using Ubuntu OS.
